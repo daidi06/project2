@@ -1,4 +1,4 @@
-# project2 :Anticipez les besoins en consommation électrique de bâtiments
+# project2: Anticipez les besoins en consommation électrique de bâtiments
 
 ## Prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments
 
